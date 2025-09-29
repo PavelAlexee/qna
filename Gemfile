@@ -23,6 +23,8 @@ gem "kamal", require: false
 
 gem "thruster", require: false
 
+gem "slim-rails"
+
 
 
 group :development, :test do
